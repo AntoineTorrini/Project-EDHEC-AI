@@ -13,6 +13,8 @@ From what movement is Claude Monet?,get_artist_info
 Tell me about Armand Guillaumin's paints,get_artist_info
 Informations on Francisco Goya,get_artist_info
 Paints of Eugène Delacroix,get_artist_info
+Can I now more about Rambrant?,get_artist_info
+Who is Rambrant?,get_artist_info
 Can I get more information about this mouvement?,get_courant_info
 Can I get informations on this mouvement?,get_courant_info
 What about this mouvement?,get_courant_info
