@@ -1,0 +1,61 @@
+Can I get informations on Leonardo da Vinci?,get_artist_info
+What about Michelangelo?,get_artist_info
+Tell me about Raphael,get_artist_info
+I want to know more about Giorgio Vasari,get_artist_info
+More info on Carlo Crivelli,get_artist_info
+Informations on Titian,get_artist_info
+Informations on Titian please,get_artist_info
+Who is Vincent Van Gogh?,get_artist_info
+I don't know anything about Paul Cézanne,get_artist_info
+What did Paul Gauguin do?,get_artist_info
+To what movement does Rembrandt belong to?,get_artist_info
+From what movement is Claude Monet?,get_artist_info
+Tell me about Armand Guillaumin's paints,get_artist_info
+Informations on Francisco Goya,get_artist_info
+Paints of Eugène Delacroix,get_artist_info
+Can I get more information about this mouvement?,get_courant_info
+Can I get informations on this mouvement?,get_courant_info
+What about this mouvement?,get_courant_info
+I want to know more about this mouvement?,get_courant_info
+More info on this mouvement,get_courant_info
+Information on this mouvement,get_courant_info
+Can I get more information about this mouvement please?,get_courant_info
+Can I get informations on this mouvement please?,get_courant_info
+What about this mouvement please?,get_courant_info
+I want to know more about this mouvement please?,get_courant_info
+More info on this mouvement please,get_courant_info
+Information on this mouvement please,get_courant_info
+I don't know anything about this mouvement,get_courant_info
+Tell me more about this mouvement,get_courant_info
+How about this mouvement?,get_courant_info
+What is this mouvement?,get_courant_info
+What does this mouvemet mean?,get_courant_info
+In what consist this mouvement please?,get_courant_info
+Tell me more about this mouvement please,get_courant_info
+How about this mouvement please?,get_courant_info
+What is this mouvement please?,get_courant_info
+What does this mouvemet mean please?,get_courant_info
+In what consist this mouvement please?,get_courant_info
+Can I get more information on this mouvement?,get_courant_info
+Can I get informations about this mouvement?,get_courant_info
+What on this mouvement?,get_courant_info
+I want to know more on this mouvement?,get_courant_info
+More info about this mouvement,get_courant_info
+Information about this mouvement,get_courant_info
+Can I get more information on this mouvement please?,get_courant_info
+Can I get informations about this mouvement please?,get_courant_info
+What about this mouvement please?,get_courant_info
+I want to know more on this mouvement please?,get_courant_info
+More info about this mouvement please,get_courant_info
+Information about this mouvement please,get_courant_info
+I don't know anything on this mouvement,get_courant_info
+Tell me more on this mouvement,get_courant_info
+How on this mouvement?,get_courant_info
+What is this mouvement?,get_courant_info
+What does this mouvemet mean?,get_courant_info
+In what consist this mouvement please?,get_courant_info
+Tell me more on this mouvement please,get_courant_info
+How on this mouvement please?,get_courant_info
+What is this mouvement please?,get_courant_info
+What does this mouvemet mean please?,get_courant_info
+In what consist this mouvement please?,get_courant_info
